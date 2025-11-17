@@ -127,6 +127,9 @@ A simulação no Wokwi utiliza os seguintes módulos:
 * **Resistores de 220Ω**
 * **Protoboard (meia)**
 * **link da simulação: https://wokwi.com/projects/447550039404938241**
+* **IMAGEM DA SIMULAÇÃO NO WOKWI**
+* **<img width="1919" height="883" alt="simulação arduino" src="https://github.com/user-attachments/assets/81573b48-cd09-4131-b176-dc58a81f83f3" />**
+
 ---
 
 ## 🖥️ Estrutura e Funcionamento da Simulação
