@@ -126,7 +126,7 @@ A simulação no Wokwi utiliza os seguintes módulos:
 * **Buzzer ativo**
 * **Resistores de 220Ω**
 * **Protoboard (meia)**
-link da simulação: https://wokwi.com/projects/447550039404938241
+* **link da simulação: https://wokwi.com/projects/447550039404938241**
 ---
 
 ## 🖥️ Estrutura e Funcionamento da Simulação
